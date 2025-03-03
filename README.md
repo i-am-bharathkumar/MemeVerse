@@ -5,7 +5,7 @@ MemeVerse is a multi-page interactive meme website where users can explore, uplo
 ## 🚀 Live Demo
 [Click here to visit MemeVerse](https://67c5c29ea413c725e38acfb3--memeversebkk.netlify.app/)
 
-[Video Recording]([https://bespoke-fairy-f59158.netlify.app](https://1drv.ms/v/c/68d6d0188cb1a544/EUlh95G1AONJiq9pRFH8MWABjkDAu731H-IGYl67KdqpRA?e=iZfoAo))
+[Video Recording](https://1drv.ms/v/c/68d6d0188cb1a544/EUlh95G1AONJiq9pRFH8MWABjkDAu731H-IGYl67KdqpRA?e=iZfoAo)
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, React, Tailwind CSS
